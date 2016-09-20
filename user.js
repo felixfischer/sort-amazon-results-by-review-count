@@ -4,7 +4,8 @@
 // @version      1.1
 // @description  Adds an option to sort search results by number of reviews
 // @author       Felix Fischer
-// @include      *amazon.*
+// @supportURL   https://github.com/felixfischer/sort-amazon-results-by-review-count/issues
+// @include      *www.amazon.*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
