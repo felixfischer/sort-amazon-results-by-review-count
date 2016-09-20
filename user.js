@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Amazon Review Count Rank
+// @name         Amazon: Sort by Review Count Rank
 // @namespace    http://felixfischer.com/
-// @version      1.0
-// @description  Sort Amazon Search Results by Review Count
+// @version      1.1
+// @description  Adds an option to sort search results by number of reviews
 // @author       Felix Fischer
 // @include      *amazon.*
 // @run-at       document-start
